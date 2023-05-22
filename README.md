@@ -14,5 +14,5 @@ Ricavare il totale in euro dei noleggi raggruppato per auto.
 
 come iniziare
 
-![comando1](/Esercitazionegit/comandi1.png)
+![comandi1](comandi1.png)
 
