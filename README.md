@@ -29,6 +29,21 @@ remote
 
 ![comandi3](comandi3.PNG)
 
+fatti quelli precedenti: 
+push # (meglio con il token se lo richiede) 
+add . # per aggiungere tutto 
+
+![comandi4](comandi4.PNG)
+![comandi5](comandi5.PNG)
+![comandi6](comandi6.PNG)
+
+
+spazio vuoto
+![spazio](spazio.PNG)
+
+
+
+
 
 
 
