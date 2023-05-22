@@ -12,5 +12,7 @@ Ricavare il totale in euro dei noleggi raggruppato per auto.
 
 # comando 1
 
-![](comandi1.png)
+come iniziare
+
+![comando1](comandi1.png)
 
