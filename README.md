@@ -10,3 +10,7 @@ Data una targa calcolare il totale in euro dei noleggi
 Dato un codice fiscale calcolare il totale in euro dei noleggi
 Ricavare il totale in euro dei noleggi raggruppato per auto.
 
+#comando 1#
+
+![](comandi1.png)
+
