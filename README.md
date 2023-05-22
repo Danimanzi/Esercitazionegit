@@ -15,11 +15,11 @@ Ricavare il totale in euro dei noleggi raggruppato per auto.
 
 come iniziare 
 
-![comandi1](comandi1.png)
+![comandi1](comandi1.PNG)
 
 configurazione 
 
-![comandi2](comandi2.png)
+![comandi2](comandi2.PNG)
 
 fare: 
 add
@@ -42,15 +42,15 @@ Introduzione a git
 ## PortableGit
 Scaricare l'ultima versione di PortableGit: https://github.com/git-for-windows/git/releases/
 
-![PortableGit](PortableGit.png)
+![PortableGit](PortableGit.PNG)
 
 Eseguire il file exe scaricato.
 
-![exe](exe.png)
+![exe](exe.PNG)
 
 Aprire il programma `git-bash` nella cartella di PortableGit appena creata.
 
-![git-bash](git-bash.png)
+![git-bash](git-bash.PNG)
 
 ## Creazione progetto
 Creare una cartella per il progetto sul Desktop chiamata `Esercitazione16maggio`.
@@ -68,10 +68,10 @@ Salvare il file.
 - Effettuare il login
 - Cliccare su `New`
 
-![newRepo](newRepo.png)
+![newRepo](newRepo.PNG)
 - Creare un nuovo repository `Esercitazione16maggio`, prestando attenzione a non creare un Readme di default.
 
-![repo](repo.png)
+![repo](repo.PNG)
 
 ### Configurazione del repository locale e sincronizzazione
 Da `git-bash` eseguire i seguenti comandi:
@@ -85,7 +85,7 @@ git push -u origin main  # Sincronizzazione del repository remoto con quello loc
 ```
 Nel caso in cui appaia questa finestra
 
-![credential](credential.png) 
+![credential](credential.PNG) 
 
 selezionare `manager-ui`.
 
@@ -98,7 +98,7 @@ Nel caso, invece, in cui il comando `push` non dovesse andare a buon fine a caus
 - In `Select scopes` spuntare la casella accanto a `repo`, in modo tale da avere la situazione sottostante
 - generare il token e salvarlo in un file di testo
 
-![token](token.png)
+![token](token.PNG)
 
 Dopodiché, eseguire nuovamente il comando `push` usando il seguente formato:
 ```
